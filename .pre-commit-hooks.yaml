@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.9.0-integration-engines-4-9-0-31-integration-me-allow-invalid-datamodel-when-introspecting-with-force-input-param-752a02ea1d26033afa9097d502345b32bd304948.1"]
+    additional_dependencies: ["prisma@4.9.0-integration-engines-4-9-0-36-tests-views-b0874818305a4c6ce0a5fb2dd48d5106321ee860.1"]
     minimum_pre_commit_version: '0'
