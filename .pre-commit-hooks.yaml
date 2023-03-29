@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.10.0-integration-distro-warning-messages.4"]
+    additional_dependencies: ["prisma@4.10.0-integration-engine-core-error-messages.1"]
     minimum_pre_commit_version: '0'
