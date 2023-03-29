@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.10.0-integration-engines-4-10-0-40-integration-log-capture-80442d539bafcc15d2ff6e40b9fe600db84bf67e.1"]
+    additional_dependencies: ["prisma@4.10.0-integration-engines-4-10-0-41-integration-log-capture-9b98bc95e87ed9b61e410bbaca5bc70dd4b8c567.1"]
     minimum_pre_commit_version: '0'
