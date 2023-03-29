@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.11.0-integration-engines-4-11-0-22-feat-json-protocol-981e92b72e3acdbdbb4ef339ad03169de31ea638.1"]
+    additional_dependencies: ["prisma@4.11.0-integration-engines-4-11-0-24-integration-capture-wasm-panics-543bfdafb66aa4ce6a35f6056bb4f7588c921df2.1"]
     minimum_pre_commit_version: '0'
