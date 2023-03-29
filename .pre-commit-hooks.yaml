@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.8.0-integration-debian-is-now-rhel.7"]
+    additional_dependencies: ["prisma@4.8.0-integration-engines-4-8-0-24-integration-debian-stretch-a16e4e212cd5f4f1cbc5070fc68c63d36685efe5.1"]
     minimum_pre_commit_version: '0'
