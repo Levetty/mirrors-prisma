@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.9.0-integration-revert-openssl-investigation-follow-up.3"]
+    additional_dependencies: ["prisma@4.9.0-integration-revert-openssl-investigation-follow-up.4"]
     minimum_pre_commit_version: '0'
