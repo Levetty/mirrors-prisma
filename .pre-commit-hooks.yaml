@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-12-integration-metrics-node-api-fix-a205424027806c6ceb1edb978e803653d47f90cf.1"]
+    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-21-integration-warning-rendering-in-rust-851761ad339b49e98d279b05c5fc652abb59c982.1"]
     minimum_pre_commit_version: '0'
