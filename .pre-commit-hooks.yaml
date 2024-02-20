@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.2.0-integration-deno-auto-install-client.2"]
+    additional_dependencies: ["prisma@5.2.0-integration-engines-5-2-0-10-integration-mongo-relation-mode-prisma-skip-integrity-ed91a7b2497b937965f670a81b14ad3b5b2318cc.1"]
     minimum_pre_commit_version: '0'
