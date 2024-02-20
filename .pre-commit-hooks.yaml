@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-56-integration-buffer-datamodel-c44fb1316a4d79511325f2a127cb63db3d5178d7.1"]
+    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-59-integration-glibc-unification-21a75d2f920e675e6fe5d7f247ebbfbc8b6d24b3.1"]
     minimum_pre_commit_version: '0'
