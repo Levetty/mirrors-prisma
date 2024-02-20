@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.1.0-integration-engines-5-1-0-6-integration-alula-ipv6-9943d4e306ad96d7806ab1274c18621f6e5ace2e.1"]
+    additional_dependencies: ["prisma@5.1.0-integration-fix-client-add-extra-schema-search-location.1"]
     minimum_pre_commit_version: '0'
