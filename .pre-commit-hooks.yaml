@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-27-integration-extra-spans-9c111e18cc52a9df1c69b65ba54defbe353d202c.1"]
+    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-28-integration-warning-rendering-in-rust-2-4b3952a62109e85d5a6621208bd95eb76d248038.1"]
     minimum_pre_commit_version: '0'
