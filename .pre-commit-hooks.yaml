@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-28-integration-warning-rendering-in-rust-2-4b3952a62109e85d5a6621208bd95eb76d248038.1"]
+    additional_dependencies: ["prisma@4.14.0-integration-engines-4-14-0-33-integration-remove-napi-get-config-41ed105ba4faff6ac50dd73c3485b1b1989f7624.1"]
     minimum_pre_commit_version: '0'
