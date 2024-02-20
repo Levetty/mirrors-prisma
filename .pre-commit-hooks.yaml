@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.16.0-integration-engines-4-16-0-71-cockroachdb-with-postgres-provider-5dbcd575dfeb408cbd8d423edb813cf42606c8bb.1"]
+    additional_dependencies: ["prisma@4.16.0-integration-engines-4-16-0-72-integration-support-arrays-generator-config-d181c89134a5f9e48a42e6d90be0b3da518c6236.1"]
     minimum_pre_commit_version: '0'
