@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.16.0-integration-engines-4-16-0-47-integration-node-drivers-with-types-and-no-missing-symbols-0c1cc1c08f0434bd4e8d7a611764c704f1d3d036.1"]
+    additional_dependencies: ["prisma@4.16.0-integration-engines-4-16-0-50-integration-node-drivers-typed-ba4ec9e7ca19c51b567950aa6280a254618fec3c.1"]
     minimum_pre_commit_version: '0'
