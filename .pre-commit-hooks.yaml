@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.15.0-integration-bench.6"]
+    additional_dependencies: ["prisma@4.15.0-integration-engines-4-15-0-1-fix-schema-builder-span-2078c7d9159ddd1f2518d39b02ef0cd4d6f31928.1"]
     minimum_pre_commit_version: '0'
