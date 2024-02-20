@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.3.0-integration-engines-5-3-0-24-integration-arm-openssl-main-92c9273a161ecfa87c1e2b27abd570c922b184a6.1"]
+    additional_dependencies: ["prisma@5.3.0-integration-engines-5-3-0-24-integration-arm-openssl-main-92c9273a161ecfa87c1e2b27abd570c922b184a6.2"]
     minimum_pre_commit_version: '0'
