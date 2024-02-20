@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.7.0-integration-test-client-wasm-engine.17"]
+    additional_dependencies: ["prisma@5.7.0-integration-test-client-wasm-engine.18"]
     minimum_pre_commit_version: '0'
