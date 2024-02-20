@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.2.0-integration-refactor-remove-dataproxy.1"]
+    additional_dependencies: ["prisma@5.2.0-integration-refactor-remove-dataproxy.2"]
     minimum_pre_commit_version: '0'
